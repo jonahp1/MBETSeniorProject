@@ -21,7 +21,7 @@ Granular Pitch Shifter - a live audio processing tool that granulates an input s
     
 wtMouse - a very simple program that tracks track pad movement and translates that into control information.
 
-Live Playground - conglomerate environment collected from personal explorations(of varying success), tutorial videos, and demos for the purpose of a "reflexive" live code performance environment.
+Live Playground - conglomerate environment collected from personal explorations(of varying success), tutorial videos, and demos for the purpose of a "reflexive" live code performance environment. (please note that some of the synthDefs in this program are not of 100% unique origin but have been lifted from demo videos etc, and reimagined in this environment)
   
 
 
@@ -32,7 +32,7 @@ Regarding the folder "MaxMSPProject": This contains projects built in Max/MSP. W
 
 Notes on Max/MSP projects:
 
-Generative Ambient Home - expanded class project based on generative ambient "drone" 
+Generative Ambient Home - expanded class project based on generative ambient "drone", good for Eno-esque textures, or a ghostly electrionic Tanpura-esque sound.
  
 Paraphonic Motion Synth - sequencer based instrument, that can also be played as a monophonic (paraphonic w/ delays) synthesizer
 
