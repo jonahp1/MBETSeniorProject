@@ -11,7 +11,7 @@ A few housekeeping notes:
 
 
 
-Regarding the folder "SuperColliderCode" : All ".scd" files are SuperCollider code. They will run in the SuperCollider IDE (or any other text editor setup w/ sclang, I believe). To run, they must be "copy/pasted" into the IDE (or text editor) and then    evaluated after the .fork method.
+Regarding the folder "SuperColliderCode" : All ".scd" files are SuperCollider code. They will run in the SuperCollider IDE. To run, they must be "copy/pasted" into the IDE (or text editor) and then evaluated after the .fork method.
 
 Notes on SC projects:
 
@@ -19,16 +19,13 @@ Noise Resonator - a drone instrument based on filtering pink noise with an extre
     
 Granular Pitch Shifter - a live audio processing tool that granulates an input signal, and allows the user to shift up by a pythagorean third or a perfect fifth.
     
-wtMouse - a very simple program that tracks track pad movement and translates that into control information.
+Mouse Controller - a very simple program that tracks track pad movement and translates that into control information.
 
 Live Playground - conglomerate environment collected from personal explorations(of varying success), tutorial videos, and demos for the purpose of a "reflexive" live code performance environment. (please note that some of the synthDefs in this program are not of 100% unique origin but have been lifted from demo videos etc, and reimagined in this environment)
   
 
 
-
-
-
-Regarding the folder "MaxMSPProject": This contains projects built in Max/MSP. Within them, you'll find the ".maxpat" file and a compressed text ".pdf". I HIGHLY RECOMMEND uses the ".maxpat" file to open, view, and play with the file. When copied in from the ".pdf", all loadband/loadmess type objects usually do not properly initiate the patch. Unfortunately, you'll need Max/MSP on your computer to do either. In some cases (github upload limits permitting) I have uploaded standalone application versions of the patches, this is the best way to play with the projects in my opinion.
+Regarding Max Patches: all are saved as ".maxpat" files. To open, you'll need Max. Opening directly from the downloaded git repo folder should work.
 
 Notes on Max/MSP projects:
 
@@ -42,8 +39,7 @@ Random Mutli-Timbral Poly Synth - fm (actually pm, but this is a historic misnom
 
 VoxProcessor - environment for processing input signal; originally conceptualized as "for voice" but truly can be used for any input signal
 
-
-
+The Quad Edits Folder contains all of the above custom Max instruments (not VoxProcessor) mildly adapted to support utilization in Quadrophonic multichannel setup.
 
 
 
