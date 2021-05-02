@@ -5,10 +5,9 @@ Hello!
 
 Thank you for visiting this repository. All of the attached files/projects are part of a larger project that I completed in partial fulfillment of my undergraduate thesis.
 
+(Hear these programs in action here: https://www.youtube.com/watch?v=1KvTJkcIzg0
+
 A few housekeeping notes:
-
-
-
 
 
 Regarding the folder "SuperColliderCode" : All ".scd" files are SuperCollider code. They will run in the SuperCollider IDE. To run, they must be "copy/pasted" into the IDE (or text editor) and then evaluated after the .fork method.
